@@ -1,4 +1,4 @@
-# Web-based Quiz Application
+# Web-based Quiz Application (project requirement for WTF class of 2024)
 
 ## Objective
 Develop a web-based quiz application using JavaScript to assess the candidate's proficiency in JavaScript programming and front-end development.

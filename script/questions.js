@@ -74,7 +74,7 @@ let questions = [
   {
     question: "Which event is triggered when an HTML form is submitted?",
     answer: "onSubmit",
-    options: ["onClick", "onSubmit", "onChange", "d. onFormSubmit"],
+    options: ["onClick", "onSubmit", "onChange", "onFormSubmit"],
   },
   {
     question: "What is the purpose of the 'viewport' meta tag in HTML?",
@@ -175,7 +175,7 @@ let questions = [
   },
   {
     question: "Which CSS property is used to add space between the border and content of an element?",
-    answer: "a. padding",
+    answer: "padding",
     options: [
       "padding",
       "margin",

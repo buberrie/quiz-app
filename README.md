@@ -1,4 +1,4 @@
-# JavaScript Quiz Application
+# Web-based Quiz Application
 
 ## Objective
 Develop a web-based quiz application using JavaScript to assess the candidate's proficiency in JavaScript programming and front-end development.
@@ -21,8 +21,6 @@ Develop a web-based quiz application using JavaScript to assess the candidate's 
 ### 4. User Interface
    - Apply basic styling to enhance the visual appeal of the quiz.
    - Ensure a responsive layout for optimal user experience on different devices.
-
-# Web-based Quiz Application
 
 ## Overview
 This web-based quiz application is developed using JavaScript, HTML, and CSS. The application assesses the user's proficiency in JavaScript programming and front-end development through a dynamic quiz interface.

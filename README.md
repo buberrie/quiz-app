@@ -6,7 +6,7 @@ Develop a web-based quiz application using JavaScript to assess the candidate's 
 ## Requirements
 
 ### 1. Quiz Functionality
-   - Create a set of at least 10 questions with multiple-choice answers.
+   - Create a set of at least 10 questions with multiple-choice answers chosen randomly out of a set of 20 questions.
    - Develop a dynamic quiz interface that displays one question at a time.
    - Utilize JavaScript for handling user input, transitioning between questions, and managing the quiz flow.
 
